@@ -1,0 +1,15 @@
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\bin\Debug\net6.0\Analog Clock.exe
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\bin\Debug\net6.0\Analog Clock.deps.json
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\bin\Debug\net6.0\Analog Clock.runtimeconfig.json
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\bin\Debug\net6.0\Analog Clock.dll
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\bin\Debug\net6.0\Analog Clock.pdb
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.AssemblyInfo.cs
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.dll
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\refint\Analog Clock.dll
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.pdb
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\Analog Clock.genruntimeconfig.cache
+C:\Users\Acer Nitro 5\source\repos\Analog Clock\Analog Clock\obj\Debug\net6.0\ref\Analog Clock.dll
